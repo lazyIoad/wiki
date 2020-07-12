@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [hall of the mountain king](README.md)
 
 ## Programming Languages
 
